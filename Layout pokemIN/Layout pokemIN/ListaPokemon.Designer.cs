@@ -63,7 +63,7 @@
             this.groupBox1.Size = new System.Drawing.Size(260, 200);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Cadastro Pokemon:";
+            this.groupBox1.Text = "Cadastro Pokémon:";
             // 
             // label1
             // 
@@ -166,7 +166,7 @@
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ListaPokemon";
-            this.Text = "PokemIN";
+            this.Text = "PokémIN";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

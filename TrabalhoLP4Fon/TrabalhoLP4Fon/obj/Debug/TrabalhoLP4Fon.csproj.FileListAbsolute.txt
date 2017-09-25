@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\bin\Debug\TrabalhoLP4Fon.exe.config
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\bin\Debug\TrabalhoLP4Fon.exe
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\bin\Debug\TrabalhoLP4Fon.pdb
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\obj\Debug\TrabalhoLP4Fon.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\obj\Debug\TrabalhoLP4Fon.exe
+C:\Users\alunoct\Desktop\TrabalhoLP4Fon\TrabalhoLP4Fon\obj\Debug\TrabalhoLP4Fon.pdb
